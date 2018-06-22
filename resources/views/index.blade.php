@@ -2,7 +2,7 @@
 
     {{-- Page title --}}
     @section('title')
-        Core + Admin Template
+        FSmart CRM
     @parent
 @stop
 

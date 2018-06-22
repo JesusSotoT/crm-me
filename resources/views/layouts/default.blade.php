@@ -5,7 +5,7 @@
     <meta charset="UTF-8">
     <title>
         @section('title')
-            | Core + Admin Template
+            | FSmart CRM
         @show
     </title>
     <meta content='width=device-width, initial-scale=1, maximum-scale=1' name='viewport'>
@@ -47,7 +47,9 @@
             <div class="navbar-collapse " id="navbarNav">
                 <div class="navbar-right ml-auto">
             <ul class="nav navbar-nav ">
-                <li class="nav-item dropdown messages-menu">
+             progress_task">
+                                        <div class="progress-bar bg-success" style="width: 40%"
+                                             role="progressbar"    <li class="nav-item dropdown messages-menu">
                     <a href="#" class="nav-link dropdown-toggle"> <i
                                 class="fa fa-fw fa-envelope-o black"></i>
                         <span class="label bg-success">2</span>
@@ -155,9 +157,7 @@
                                 Create a nice theme
                                 <small class="pull-right">40%</small>
                                 <div class="message-body">
-                                    <div class="progress progress-xs progress_task">
-                                        <div class="progress-bar bg-success" style="width: 40%"
-                                             role="progressbar" aria-valuenow="20" aria-valuemin="0"
+                                    <div class="progress progress-xs aria-valuenow="20" aria-valuemin="0"
                                              aria-valuemax="100">
                                             <span class="sr-only">40% Complete</span>
                                         </div>

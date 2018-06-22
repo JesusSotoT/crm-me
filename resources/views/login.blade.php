@@ -2,7 +2,7 @@
 <html>
 
 <head>
-    <title>::Admin Login::</title>
+    <title>::Iniciar Sesion - FSmart::</title>
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="shortcut icon" href="{{asset('assets/img/favicon.ico')}}" />
     <!-- Bootstrap -->
@@ -27,8 +27,7 @@
                 <div class="col-md-12">
                     <div class="header">
                         <h2 class="text-center">
-                            Login
-                            <small> with</small>
+                            <small>  Iniciar Sesion </small>
                             <img src="{{asset('assets/img/pages/logo.png')}}" alt="logo">
                         </h2>
                     </div>
